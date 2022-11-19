@@ -33,7 +33,7 @@ Path: Projects/Enigma
 
 ------------------------------------------------------------------------------------------------------------------
 
-Path: Projects/Bugs/Ants.py
+Path: Projects/Bugs
 
 - Ants (Python)-(Inheritance, object-oriented programming, classes)
 
