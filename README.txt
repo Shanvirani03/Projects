@@ -11,7 +11,7 @@ Path: Projects/gitlet/
 
 Path: Projects/DragonRepeller
 
-- DragonRepeller (HTML/CSS/JavaScript)
+- DragonRepeller - (HTML/CSS/JavaScript)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,6 +24,12 @@ Path: Projects/Ataxx
 Path: Projects/Blocks
 
 - Blocks (Java)-(Trees, OOP, game trees, alpha beta pruning)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Path: Projects/Enigma
+
+- Enigma - (Java)-(OOP, interfaces, comparables)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
