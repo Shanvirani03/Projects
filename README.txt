@@ -7,6 +7,8 @@ Path: Projects/gitlet/
 
 - Gitlet (Java)-(OOP, Trees, persistance, search algorithms, queues)
 
+- Description:
+
 ------------------------------------------------------------------------------------------------------------------
 
 Path: Projects/DragonRepeller
