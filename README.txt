@@ -1,5 +1,7 @@
 
-This repository consists of many projects that I have worked on. The projects are written in Python, Java, JavaScript, HTML, and CSS.
+THIS REPOSITORY CONSISTS OF MANY PROJECTS THAT I HAVE WORKED ON. THE PROJECTS ARE WRITTEN IN PYTHON, JAVA, JAVASCRIPT, HTML, AND CSS.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Path: Projects/gitlet/
 
@@ -22,5 +24,14 @@ Path: Projects/Ataxx
 Path: Projects/Blocks
 
 - Blocks (Java)-(Trees, OOP, game trees, alpha beta pruning)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Path: Projects/Bugs/Ants.py
+
+- Ants (Python)-(Inheritance, object-oriented programming, classes)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
  
