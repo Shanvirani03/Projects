@@ -39,12 +39,6 @@ Path: Projects/Ataxx
 
 ------------------------------------------------------------------------------------------------------------------
 
-Path: Projects/Blocks
-
-- Blocks (Java)-(Trees, OOP, game trees, alpha beta pruning)
-
-------------------------------------------------------------------------------------------------------------------
-
 Path: Projects/Enigma
 
 - Enigma - (Java)-(OOP, interfaces, comparables)
