@@ -60,5 +60,14 @@ these classes have many children whose "attributes" differ from one another.
 
 ------------------------------------------------------------------------------------------------------------------
 
+Path: Projects/Sodoku
+
+- Sodoku (Python) - (Back-tracking)
+
+Description:
+
+Created a program that solves a Sudoku puzzle, by using a back-tracking algorithm, which ensures that the program
+performs efficiently.
+
 
  
