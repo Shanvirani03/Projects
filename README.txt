@@ -14,6 +14,19 @@ Path: Projects/gitlet/
 
 ------------------------------------------------------------------------------------------------------------------
 
+Path: Projects/Flight Delays
+
+- Flight Delays (Python) - (SKLearn, Numpy, Pandas, Bs4)
+
+- Description:
+
+Utilized Machine Learning algorithms such as Random Forests, Linear Regression, PCA, Decision Trees, and Classification and Regression Trees,  
+to predict whether a flight will be delayed. (SKLearn, Numpy, Pandas, Bs4)
+
+The data in this project was pulled from a variety of different sources such as Kaggle, PageswithCode, and Github,  and was preprocessed using Pandas.
+
+------------------------------------------------------------------------------------------------------------------
+
 Path: Projects/DragonRepeller
 
 - DragonRepeller - (HTML/CSS/JavaScript)
